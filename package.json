@@ -11,5 +11,8 @@
   "description": "",
   "devDependencies": {
     "cypress": "^13.13.1"
+  },
+  "dependencies": {
+    "cursocypress": "file:"
   }
 }
